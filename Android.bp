@@ -1,0 +1,7 @@
+filegroup {
+    name: "jos_feature_java",
+    srcs: [
+        "build_out/java/com/journeyOS/JosFeature.java",
+    ],
+    path: "build_out/java",
+}

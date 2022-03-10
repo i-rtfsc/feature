@@ -1,0 +1,4 @@
+# jos feature default
+JOS_FEATURE_DEFAULT = 1
+# jos ai service
+JOS_FEATURE_AI_SERVICE = false

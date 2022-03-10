@@ -1,0 +1,4 @@
+# jos device
+JOS_FEATURE_DEVICE = "lemonadep"
+# jos ai service
+JOS_FEATURE_AI_SERVICE = false
